@@ -44,10 +44,3 @@ I believe in learning by building, experimenting, and turning ideas into project
 - **AI-Based Job Role Predictor** – A beginner-level project using Python and machine learning.
 - **Student Dashboard** – An Excel-based data visualization project.
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=dwanish24cseu034-cloud&theme=dark&hide_border=false)
-
-![](https://streak-stats.demolab.com/?user=dwanish24cseu034-cloud&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dwanish24cseu034-cloud&theme=dark&hide_border=false&layout=compact)
