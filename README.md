@@ -41,6 +41,11 @@ I believe in learning by building, experimenting, and turning ideas into project
 ## 📂 Projects
 
 - **College Event Management System** – A DBMS mini project using Python, Streamlit, and MariaDB.
-- **AI-Based Job Role Predictor** – A beginner-level project using Python and machine learning.
 - **Student Dashboard** – An Excel-based data visualization project.
+### AI-Based Job Role Predictor
 
+An AI-based application that predicts suitable job roles based on user-provided skills.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Streamlit
+
+[View Project](https://github.com/dwanish24cseu034-cloud/AI-Job_Role_Predictor)
